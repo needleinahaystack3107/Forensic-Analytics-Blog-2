@@ -5,4 +5,9 @@ This repository covers webscraping essential fundamentals of listed companies on
 References
 https://github.com/Skumarr53/Stock-Fundamental-data-scraping-and-analysis
 
+Description of files in repo
+1. Python Notebook:- Project notebook
+2. Readme File
+3. screencapture.zip:- Sample video of code execution
+
 
